@@ -81,10 +81,9 @@ di direktori yang sama dengan file `.py`.
 
 ## 👨‍🎓 Dibuat Oleh
 
-> Nama Mahasiswa  
+> Nama : Ken Irgi Putra Rudiansyah
 > **Universitas Muhammadiyah Malang**  
-> Mata Kuliah: _Grafika Komputer 24/25_  
-> Dosen Pengampu: [Isi Nama Dosen jika perlu]
+> Mata Kuliah: _Grafika Komputer 
 
 ---
 
